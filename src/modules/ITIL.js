@@ -419,14 +419,15 @@ const itil = [
       "Organizations and people dimension typically refers to the entities or structures that are formed to achieve specific goals or objectives. This can include for-profit companies, non-profit organizations, government agencies, and other types of formal institutions. It encompasses how these entities are structured, how they function, their goals, strategies, leadership, and the various processes and systems that support their operations.",
   },
   {
-    question:"What is the second dimension, Information and technology?",
-    answer:"Information and technology dimension includes the information and knowledge that is used to deliver services, and the information and technologies used to manage the service value system (SVS). This includes information and knowledge used by the organization to create value, and the information and technologies used by the service provider to manage the SVS.",
-  }.
+    question: "What is the second dimension, Information and technology?",
+    answer:
+      "Information and technology dimension includes the information and knowledge that is used to deliver services, and the information and technologies used to manage the service value system (SVS). This includes information and knowledge used by the organization to create value, and the information and technologies used by the service provider to manage the SVS.",
+  },
   {
     question: "What is clound computing?",
     answer:
       "model for enabling on demand network access to a shared pool of configurable computing resources that can be rapidly provisioned and released with minimal management effort or service provider interaction.",
-  }
+  },
 ];
 
 export default itil;
